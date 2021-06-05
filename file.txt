@@ -1,0 +1,5 @@
+Warszawa;-;
+L;-;Ulica A;-;Ulica B;-;1;-;0;-;
+Breslau;-;
+M;-;Ulica C;-;Ulica D;-;1;-;1;-;
+S;-;Ulica E;-;Ulica F;-;0;-;0;-;
